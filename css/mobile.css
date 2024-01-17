@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  direction: rtl;
+}
+.container {
+  width: 356px;
+  margin: 0 auto;
+}
+
+/* +++++++++++++++++++ Header ++++++++++++++++++++++++ */
+#header {
+  width: 100%;
+}
+
+.header_wrap {
+  width: 100%;
+  padding: 10px 0 0;
+  text-align: center;
+  background-image: url(../images/headerbg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header_wrap .logo img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.heading h1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 800;
+  padding: 5px 90px 0;
+  color: #fff;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+}
+
+.header_wrap .header_badge {
+  padding: 2px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_wrap .header_badge .badge_container {
+  position: relative;
+  width: 150px;
+  height: 50px;
+}
+.header_wrap .header_badge .badge_container .badge {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 10px solid #42c9ff;
+  background-color: #0027ba;
+  text-align: center;
+  rotate: -11deg;
+  position: absolute;
+  top: -20px;
+  z-index: 1000;
+}
+
+.header_wrap .header_badge .badge h2 {
+  font-size: 45px;
+  margin-top: 13px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+}
+
+.header_wrap .header_badge .badge h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: yellow;
+  margin-bottom: 10px;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+}
+
+.header_wrap .header_badge .badge h4 {
+  font-size: 10px;
+  font-weight: 600;
+  color: #fff;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+}
+
+.header_wrap .header_badge .text p {
+  font-size: 20px;
+  font-weight: 700;
+  color: darkblue;
+  text-align: right;
+  width: 150px;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  padding-top: 10px;
+}
+
+/* +++++++++++++++++++++++++ Main ++++++++++++++++++++++++ */
+#main {
+  width: 100%;
+}
+
+.main_wrapper {
+  background-image: url(../images/bodybg.jpg);
+  padding: 60px 10px 10px;
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover;
+  opacity: 90%;
+}
+
+.main_wrapper .main_title h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: darkblue;
+  text-align: right;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.main_wrapper .main_content h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0027ba;
+  text-align: right;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  width: 300px;
+}
+
+hr {
+  color: #0027ba;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 100%;
+  height: 30px;
+  border-radius: 12px;
+  background-color: #022bba;
+  color: #fff;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+/* +++++++++++++++ Group Pic +++++++++++++++++++++++++ */
+
+#group_pic {
+  width: 100%;
+}
+
+.group_pic {
+  background: linear-gradient(#deebff44, #deebff46), url(../images/group.png);
+  height: 200px;
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover;
+}
+
+/* +++++++++++++++ Footer +++++++++++++++++++++++++ */
+#footer {
+  width: 100%;
+}
+
+.footer_wrap {
+  background-color: #1a9601;
+  padding: 20px 10px 10px;
+  color: #fff;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  font-size: 12px;
+}
+
+.footer_wrap .part_one{
+  display: flex;
+  align-items: center;
+}
+
+
+
+.footer_wrap .part_one .top {
+  width: 100px;
+  font-weight: 600;
+  align-self: self-start;
+}
+
+
+.vl {
+  border-left: 2px solid #fff;
+  height: 55px;
+  margin: 0 5px;
+  
+}
+
+
+.text_col .p1, .text_col .p2, .text_col .p3{
+  display: flex;
+  justify-content: start;
+  margin-bottom: 2px;
+  font-size: 10px;
+  column-gap: 3px;
+}
+
+.part_two{
+  margin-top: 10px;
+  text-align: center;
+  
+}
+
+/* font-family: 'IBM Plex Sans Hebrew', sans-serif; */

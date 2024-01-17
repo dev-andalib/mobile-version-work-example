@@ -1,0 +1,175 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/AdobeFnt23.lst
+FileLength:4293
+FileModTime:726649803
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeHebrew-Regular
+FamilyName:Adobe Hebrew
+StyleName:Regular
+MenuName:Adobe Hebrew
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Hebrew Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/AdobeHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:73124
+FileModTime:570005780
+NameArray:0,Mac,18,Adobe Hebrew
+NameArray:0,Mac,4,Adobe Hebrew Regular
+NameArray:0,Win,1,Adobe Hebrew
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooTammudu2-SemiBold
+FamilyName:Baloo Tammudu 2
+StyleName:SemiBold
+MenuName:Baloo Tammudu 2 SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Baloo Tammudu 2 SemiBold
+WritingScript:Roman
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/BalooTammudu2-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:390716
+FileModTime:689705746
+NameArray:0,Win,1,Baloo Tammudu 2 SemiBold
+NameArray:0,Win,16,Baloo Tammudu 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbSpoiler-Black
+FamilyName:Fb Spoiler
+StyleName:Black
+MenuName:Fb Spoiler Black
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Spoiler Black
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/FbSpoiler-Black.otf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:67556
+FileModTime:651929216
+NameArray:0,Mac,4,Fb Spoiler Black
+NameArray:0,Win,1,Fb Spoiler Black
+NameArray:0,Win,16,Fb Spoiler
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbSpoiler-Bold
+FamilyName:Fb Spoiler
+StyleName:Bold
+MenuName:Fb Spoiler
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FbSpoiler Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/FbSpoiler-Bold.otf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:68980
+FileModTime:670060474
+NameArray:0,Mac,4,FbSpoiler Bold
+NameArray:0,Win,1,Fb Spoiler
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbSpoiler-Light
+FamilyName:Fb Spoiler
+StyleName:Light
+MenuName:Fb Spoiler Light
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Spoiler Light
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/FbSpoiler-Light.otf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:69932
+FileModTime:665498650
+NameArray:0,Mac,4,Fb Spoiler Light
+NameArray:0,Win,1,Fb Spoiler Light
+NameArray:0,Win,16,Fb Spoiler
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbSpoiler-Regular
+FamilyName:Fb Spoiler
+StyleName:Regular
+MenuName:Fb Spoiler
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Spoiler
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Volumes/DropBox_Disk/Dropbox (gruber)/Pages from  קונספט טניס_B__Folder/Nili_DEC_2023/דפי נחיתה/chosen/landing page_768*320 Folder/Document fonts/FbSpoiler-Regular.otf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:68292
+FileModTime:651569031
+NameArray:0,Mac,4,Fb Spoiler
+NameArray:0,Win,1,Fb Spoiler
+%EndFont
+
